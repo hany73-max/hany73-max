@@ -4,7 +4,7 @@
   
   ![Space Header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Space%20Engineering%20×%20AI/ML&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Exploring%20the%20intersection%20of%20artificial%20intelligence%20and%20space%20technology&descAlignY=55&descAlign=50)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Space+Engineering+Student+%F0%9F%9B%B0%EF%B8%8F;AI%2FML+%C3%97+Space+Technology+Researcher+%F0%9F%A4%96;NASA+Space+Apps+Challenge+2025+Team+Lead+%F0%9F%9A%80;Building+the+Future+of+Space+Exploration+%F0%9F%8C%8C)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Space+Engineering+Student+%F0%9F%9B%B0%EF%B8%8F;AI%2FML+%C3%97+Space+Technology+Explorer+%F0%9F%A4%96;NASA+Space+Apps+Challenge+2025+Team+Lead+%F0%9F%9A%80;Learning+AI%2FML+for+Space+Applications+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ class SpaceEngineer:
             "NASA_Space_Apps_2025": {
                 "role": "Technical Lead",
                 "project": "Exoplanet Detection ML Pipeline",
-                "status": "Learning Phase - Python Fundamentals",
+                "status": "Advanced Python/OOP skills, actively learning NumPy/Pandas",
                 "team_size": 3,
                 "goal": "Build ML system for transit photometry analysis"
             },
@@ -49,11 +49,10 @@ class SpaceEngineer:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### **Space & AI/ML Technologies**
+### **Learning Stack (AI/ML for Space)**
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
@@ -98,20 +97,22 @@ graph LR
     style F fill:#dda0dd
 ```
 
-### **🎯 Current Learning Phase: NASA Space Apps Challenge 2025**
+### **🎯 NASA Space Apps Challenge 2025 - Learning Progress**
 
 <div align="center">
 
 | Phase | Topic | Status | Progress |
 |-------|-------|--------|----------|
-| 0️⃣ | Basic Python Practice | ✅ | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| 1️⃣ | Python Fundamentals | 🔄 | ![60%](https://progress-bar.dev/60?color=ffff00) |
-| 2️⃣ | Object-Oriented Programming | ⏳ | ![20%](https://progress-bar.dev/20?color=ff6b6b) |
-| 3️⃣ | NumPy | ⏳ | ![0%](https://progress-bar.dev/0?color=lightgrey) |
-| 4️⃣ | Pandas | ⏳ | ![0%](https://progress-bar.dev/0?color=lightgrey) |
-| 5️⃣ | Scikit-learn | ⏳ | ![0%](https://progress-bar.dev/0?color=lightgrey) |
-| 6️⃣ | Matplotlib | ⏳ | ![0%](https://progress-bar.dev/0?color=lightgrey) |
-| 7️⃣ | NASA Challenge Prep | ⏳ | ![0%](https://progress-bar.dev/0?color=lightgrey) |
+| 0️⃣ | Basic Python Practice | ✅ | `████████████████████` 100% |
+| 1️⃣ | Python Fundamentals | ✅ | `██████████████████░░` 90% |
+| 2️⃣ | Object-Oriented Programming | 🔄 | `██████████████░░░░░░` 70% |
+| 3️⃣ | NumPy | 🔄 | `██████████░░░░░░░░░░` 50% |
+| 4️⃣ | Pandas | 🔄 | `████████░░░░░░░░░░░░` 40% |
+| 5️⃣ | Scikit-learn | ⏳ | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 6️⃣ | Matplotlib | ⏳ | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 7️⃣ | NASA Challenge Prep | 🔄 | `████████████░░░░░░░░` 60% |
+
+**Current Focus**: Building ML pipeline for exoplanet detection using transit photometry
 
 </div>
 
@@ -136,9 +137,9 @@ graph LR
 - **Data Analysis**: Intelligent telemetry processing
 - **Documentation**: Automated technical writing
 
-### **🌟 Future Applications**
+### **🌟 Future Research Directions**
 - Smart navigation systems for autonomous spacecraft
-- Predictive maintenance for satellite operations
+- Predictive maintenance for satellite operations  
 - AI-powered communication and error correction
 - Intelligent mission control assistants
 
@@ -186,7 +187,7 @@ graph LR
 🔬 Specialize in AI/ML applications for space engineering  
 🌍 Contribute to open-source space technology projects  
 📖 Research thesis combining AI/ML with navigation systems  
-🏢 Industry experience in aerospace AI/ML applications  
+🏢 Gain industry experience in aerospace AI/ML applications  
 
 </div>
 
@@ -219,4 +220,3 @@ graph LR
   ![Visitor Count](https://komarev.com/ghpvc/?username=hany73-max&color=58A6FF&style=for-the-badge&label=Mission+Visitors)
 
 </div>
-Add custom profile README
