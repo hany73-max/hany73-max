@@ -103,14 +103,14 @@ graph LR
 
 | Phase | Topic | Status | Progress |
 |-------|-------|--------|----------|
-| 0️⃣ | Basic Python Practice | ✅ | `████████████████████` 100% |
-| 1️⃣ | Python Fundamentals | ✅ | `██████████████████░░` 90% |
-| 2️⃣ | Object-Oriented Programming | 🔄 | `██████████████░░░░░░` 70% |
-| 3️⃣ | NumPy | 🔄 | `██████████░░░░░░░░░░` 50% |
-| 4️⃣ | Pandas | 🔄 | `████████░░░░░░░░░░░░` 40% |
-| 5️⃣ | Scikit-learn | ⏳ | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 6️⃣ | Matplotlib | ⏳ | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 7️⃣ | NASA Challenge Prep | 🔄 | `████████████░░░░░░░░` 60% |
+| 0️⃣ | Basic Python Practice | ✅ | ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen?style=flat-square) |
+| 1️⃣ | Python Fundamentals | ✅ | ![90%](https://img.shields.io/badge/Progress-90%25-green?style=flat-square) |
+| 2️⃣ | Object-Oriented Programming | 🔄 | ![70%](https://img.shields.io/badge/Progress-70%25-yellowgreen?style=flat-square) |
+| 3️⃣ | NumPy | 🔄 | ![50%](https://img.shields.io/badge/Progress-50%25-yellow?style=flat-square) |
+| 4️⃣ | Pandas | 🔄 | ![40%](https://img.shields.io/badge/Progress-40%25-orange?style=flat-square) |
+| 5️⃣ | Scikit-learn | ⏳ | ![10%](https://img.shields.io/badge/Progress-10%25-red?style=flat-square) |
+| 6️⃣ | Matplotlib | ⏳ | ![10%](https://img.shields.io/badge/Progress-10%25-red?style=flat-square) |
+| 7️⃣ | NASA Challenge Prep | 🔄 | ![60%](https://img.shields.io/badge/Progress-60%25-yellow?style=flat-square) |
 
 **Current Focus**: Building ML pipeline for exoplanet detection using transit photometry
 
