@@ -4,7 +4,7 @@
   
   ![Space Header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Space%20Engineering%20×%20AI/ML&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Exploring%20the%20intersection%20of%20artificial%20intelligence%20and%20space%20technology&descAlignY=55&descAlign=50)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Space+Engineering+Student+%F0%9F%9B%B0%EF%B8%8F;AI%2FML+%C3%97+Space+Technology+Explorer+%F0%9F%A4%96;NASA+Space+Apps+Challenge+2025+Team+Lead+%F0%9F%9A%80;Learning+AI%2FML+for+Space+Applications+%F0%9F%8C%8C)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Space+Engineering+Student+🛰️;AI/ML+×+Space+Technology+Explorer+🤖;NASA+Space+Apps+Challenge+2025+Team+Lead+🚀;Learning+AI/ML+for+Space+Applications+🌌)](https://git.io/typing-svg)
 
 </div>
 
