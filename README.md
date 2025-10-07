@@ -83,7 +83,7 @@ Built with **XGBoost**, the model identifies potential planets with ~90% accurac
 ## 🌍 Connect with Me
 
 * **GitHub**: [github.com/hany73-max](https://github.com/hany73-max)
-* **LinkedIn**: [linkedin.com/in/hany-ehab-1525b02a7](https://www.linkedin.com/in/hany-34ry)
+* **LinkedIn**: [linkedin.com/in/hany-34ry](https://www.linkedin.com/in/hany-34ry)
 * **Email**: [hanyelashry323@gmail.com](mailto:hanyelashry323@gmail.com)
 
 > “Every dataset holds a story — and some of them come from the stars.” 🌠
