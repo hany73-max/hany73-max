@@ -33,7 +33,7 @@ I’m currently deepening my expertise in **ML modeling**, **data preprocessing*
 ## 🌠 Projects
 
 ### **Sky Spy — AI for Exoplanet Discovery**
-##### **3rd place winner** in the *NASA spce apps 2025*
+#### 3rd place winner in the *NASA spce apps 2025*
 
 Sky Spy is an **AI-powered tool** that automates the detection of **exoplanets** from NASA’s Kepler and TESS datasets.
 Built with **XGBoost**, the model identifies potential planets with ~90% accuracy and provides interpretable visualizations for transparency.
