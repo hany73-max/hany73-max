@@ -26,7 +26,7 @@ I build machine learning systems end-to-end — from first-principles math, to t
 **[Kessler-Shield](https://github.com/hany73-max/kessler-shield)** — [Live Demo](https://kessler-shield-akmjrrdw9dsqfay8zvz33h.streamlit.app/)
 Predicts high-risk satellite collision events from real orbital telemetry, resolving a ~1:1300 class imbalance with precision-recall-tuned thresholding. Deployed as an independent FastAPI backend + Streamlit dashboard, communicating over REST.
 
-**[Sky-Spy: Exoplanet Classifier](https://github.com/hany73-max/Sky-Spy-Exoplanet-Classifier)** — Live Demo *(add link)*
+**[Sky-Spy: Exoplanet Classifier](https://github.com/hany73-max/Sky-Spy-Exoplanet-Classifier)** — Live Demo 
 Classifies Kepler mission candidates as confirmed exoplanets or false positives with a tuned XGBoost model. Built for NASA Space Apps Challenge; placed 3rd as team lead. Same two-service deployment architecture as Kessler-Shield.
 
 **[TicketSense](https://github.com/hany73-max/TicketSense)**
