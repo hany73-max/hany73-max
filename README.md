@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hany--el34ry-55A07E?style=for-the-badge&logo=vercel&logoColor=white)](https://hany-el34ry.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hany--el34ry-55A07E?style=for-the-badge&logo=vercel&logoColor=white)](https://hany-el34ry.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hany--34ry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hany-34ry/)
 [![Email](https://img.shields.io/badge/Email-hanyelashry323@gmail.com-B09627?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanyelashry323@gmail.com)
 
@@ -114,7 +114,7 @@ I like understanding algorithms at the lowest level: deriving them in NumPy firs
 
 I'm looking for a junior or internship role where I can apply Python, SQL and applied ML to real, data-heavy problems.
 
-- 🌐 Portfolio: [hany-el34ry-portfolio.vercel.app](https://hany-el34ry-portfolio.vercel.app)
+- 🌐 Portfolio: [hany-el34ry.vercel.app](https://hany-el34ry.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/hany-34ry](https://www.linkedin.com/in/hany-34ry/)
 - ✉️ Email: [hanyelashry323@gmail.com](mailto:hanyelashry323@gmail.com)
 - 🗣️ Languages: Arabic (native), English (C1)
